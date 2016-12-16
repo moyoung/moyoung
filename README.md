@@ -1,7 +1,3 @@
-<html>
-    <head>
-        <title>moyo designs.</title>
-        <link rel="stylesheet" href="css/main.css">
         <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Open+Sans" rel="stylesheet">
     </head>
     <body>
