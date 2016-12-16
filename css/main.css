@@ -1,0 +1,151 @@
+
+/****** BASE STYLES ******/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #432b53;
+    max-width: 1200px;
+    
+}
+
+#about, #work, #contact {
+    height: 600px;
+}
+
+span {
+	font-family: 'Abril Fatface', cursive;
+}
+
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+.half-width {
+    width: 550px;
+    float: left;
+}
+
+/****** HEADER ******/
+
+header {
+    height: 800px;
+    background-image: url('http://i74.photobucket.com/albums/i264/moyo019/header_zpsqhyaaid9.png');
+    background-size: cover;
+}
+
+header h1 { 
+    font-family: 'Abril Fatface', cursive;
+    font-size: 40px;
+    color: #432b53;
+    padding: 50px 0;
+}
+nav {
+    float: right; 
+    padding: 75px 16px;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    color: #432b53;
+    padding-left: 20px; 
+}
+#header h2 {
+    width: 100px;
+    clear: both;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 72px;
+    line-height: 10px;
+    color: #432b53;
+    padding: 0px 0;
+}
+#header h2 span {
+    color: #432b53;
+}
+
+
+/****** ABOUT******/
+
+#about .full-width {
+    padding: 80px 0;
+}
+
+#about h2 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 40px;
+	color: #432b53;
+    text-align:
+}
+#about p {
+    font-size: 18px;
+    color: #432b53;
+    line-height: 40px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+/****** WORK ******/
+
+#work {
+    background-color: #c1b2cc;
+    text-align: center;
+}
+
+#work .full-width {
+    padding: 140px 0;
+}
+
+.work img {
+    padding-bottom: 5px;
+}
+
+
+#work p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    line-height: 20px;
+    color: #432b53;
+    padding: 0 15px;
+    text-align: justify;
+    
+}
+
+#work li {
+    padding: 10px 0;
+    color: #432b53;
+    font-size: 16px;
+    list-style: none;
+}
+
+/****** CONTACT ******/
+
+#contact {
+    background-color: #ebebeb;
+}
+#contact .full-width {
+    padding: 110px 0;
+}
+#contact h2 {
+    font-size: 36px;
+    color: #432b53;
+}
+
+#contact p {
+    color: #432b53;
+    font-size: 28px;
+    text-align: left;
+}
+
+#contact a {
+    text-decoration: none;
+    color: #432b53;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+
