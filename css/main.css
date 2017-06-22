@@ -5,8 +5,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     color: #432b53;
     max-width: 1200px;
-    
-}
+    }
 
 #about, #work, #contact {
     height: 600px;
